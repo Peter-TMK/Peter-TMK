@@ -1,6 +1,6 @@
-# Hello there; welcome 👋🏾
+# Hello there; welcome 👋🏾👋👋
 
-Hi there,👋
+<!-- Hi there,👋 -->
 <!-- <h1>
   Hi there,👋
   <img src="https://giphy.com/stickers/hand-holographic-holo-h8Bw0Z9vKQeHqVyE6N" width="30px"/>
@@ -32,7 +32,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on w3schools and read tech articles.
 
-- :mailbox: You can contact me by emailing silvernnaokonkwo@gmail.com.
+- :mailbox: You can contact me by emailing tundepeter01@gmail.com.
 
 - 😄 Pronouns: I identify as a "the" a "she" and an "it".... I am "The Shit!"😏
 
