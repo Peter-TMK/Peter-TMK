@@ -61,7 +61,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ============================================ -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-iamtunde-golden?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/tunde-wey)](https://linkedin.com/in/tunde-wey) [![Twitter Badge](https://img.shields.io/badge/-@iamtunde-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/excel_py)](https://twitter.com/excel_py)[![Medium Badge](https://img.shields.io/badge/-iamtunde-silver?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://tundepeter.medium.com/)](https://tundepeter.medium.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-iamtunde-golden?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/tunde-wey)](https://linkedin.com/in/tunde-wey) [![Twitter Badge](https://img.shields.io/badge/-@iamtunde-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/excel_py)](https://twitter.com/excel_py)
+<!-- [![Medium Badge](https://img.shields.io/badge/-iamtunde-silver?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://tundepeter.medium.com/)](https://tundepeter.medium.com/) -->
 
 I'm a Data Scientist, Backend Developer and a Coding Tutor at [Data Scientists Networks](https://www.datasciencenigeria.org/). I'm passionate about sharing knowledge, documentation, web technology, and others.
 
@@ -69,10 +70,10 @@ I'm a Data Scientist, Backend Developer and a Coding Tutor at [Data Scientists N
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, Reactjs, and Python.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing mailtobolaji@gmail.com.
+<!-- - 🌱 I’m currently learning NodeJs. -->
+- 😊 I’m open to open source projects, hackathons, and other opportunities.
+- 💼 Job interests: Data Scientist, Backend Developer, Python Tutor.
+- 📫 You can [view my resume](#) and contact me by emailing tundepeter01@gmail.com.
 
 ---
 
