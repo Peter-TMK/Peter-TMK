@@ -61,7 +61,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ============================================ -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-iamtundeW-golden?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/tunde-wey)](https://linkedin.com/in/tunde-wey) [![Twitter Badge](https://img.shields.io/badge/-@iambolajiayo-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/excel_py)](https://twitter.com/excel_py)
+[![Linkedin Badge](https://img.shields.io/badge/-iamtundeWey-golden?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/tunde-wey)](https://linkedin.com/in/tunde-wey) [![Twitter Badge](https://img.shields.io/badge/-@iamtundeWey-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/excel_py)](https://twitter.com/excel_py)
 
 I'm a Software Engineer, Content Creator, and Community Engineer who currently works as a Developer Advocate at [Commerce Layer](https://commercelayer.io). I'm passionate about sharing knowledge, documentation, web engineering, Jamstack, headless commerce, and others. I create technical content (on my [Blog](https://bolajiayodeji.com/), [Newsletter](https://bawd.bolajiayodeji.com), and [YouTube](https://www.youtube.com/c/bolajiayodeji)), build useful [open-source projects](https://github.com/BolajiAyodeji), speak at some meetups/conferences, build technical communities...
 
