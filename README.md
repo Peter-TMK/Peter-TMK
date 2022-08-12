@@ -1,4 +1,4 @@
-# Hello there; welcome 👋🏾👋👋
+# Hi there, 👋🏾👋👋
 <!-- 
  Hi there,👋
 <h1>
