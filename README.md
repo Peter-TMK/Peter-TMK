@@ -24,8 +24,8 @@ I'm a Software Engineer, Content Creator, and Community Engineer who currently w
 
 
 <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hi there,
+  <img src="https://giphy.com/stickers/hand-holographic-holo-h8Bw0Z9vKQeHqVyE6N" width="30px"/>
 </h1>
 
 <div id="svg" align="center">
