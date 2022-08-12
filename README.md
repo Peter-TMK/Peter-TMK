@@ -66,11 +66,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 I'm a Data Scientist, Backend Developer and a Coding Tutor at [Data Scientists Networks](https://www.datasciencenigeria.org/). I'm passionate about sharing knowledge, documentation, web technology, and others.
 
-**Here's a quick summary about me**:
+**About me**:
 
+<!-- - 🌱 I’m currently learning NodeJs. -->
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-<!-- - 🌱 I’m currently learning NodeJs. -->
 - 😊 I’m open to open source projects, hackathons, and other opportunities.
 - 💼 Job interests: Data Scientist, Backend Developer, Python Tutor.
 - 📫 You can [view my resume](#) and contact me by emailing tundepeter01@gmail.com.
