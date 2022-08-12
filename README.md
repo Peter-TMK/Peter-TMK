@@ -1,5 +1,5 @@
 # Hi there, 👋🏾👋👋
-<h6>"With or without codes, everyone is a programmer"</h6>
+<!-- <h6>"With or without codes, everyone is a programmer"</h6> -->
 <!-- 
  Hi there,👋
 <h1>
