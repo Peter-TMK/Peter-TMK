@@ -80,7 +80,7 @@ I'm passionate about sharing knowledge, documentation, web technology, and other
 - 💼 Job interests: Data Scientist, Backend Developer, Python Tutor.
 - 📫 You can [view my resume](#) and also contact me by email tundepeter01@gmail.com.
 
-**Fun Quote**: <h6>"With or without codes, everyone is a programmer"</h6>
+<!-- **Fun Quote**: <h6>"With or without codes, everyone is a programmer"</h6> -->
 ---
 <!-- 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
