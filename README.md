@@ -24,7 +24,7 @@ I'm a Software Engineer, Content Creator, and Community Engineer who currently w
 
 
 <h1>
-  Hi there,
+  Hi there,👋
   <img src="https://giphy.com/stickers/hand-holographic-holo-h8Bw0Z9vKQeHqVyE6N" width="30px"/>
 </h1>
 
