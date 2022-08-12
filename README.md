@@ -67,14 +67,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 I'm a Data Scientist, Backend Developer and a Coding Tutor at [Data Scientists Networks](https://www.datasciencenigeria.org/). I'm passionate about sharing knowledge, documentation, web technology, and others.
 
 **About me**:
-
 <!-- - 🌱 I’m currently learning NodeJs. -->
+<!-- - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022. -->
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 😊 I’m open to open source projects, hackathons, and other opportunities.
 - 💼 Job interests: Data Scientist, Backend Developer, Python Tutor.
-- 📫 You can [view my resume](#) and contact me by emailing tundepeter01@gmail.com.
-
+- 📫 You can [view my resume](#) and [![Linkedin Badge](https://img.shields.io/badge/-iamtunde-golden?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://tundewey.github.io/)](https://tundewey.github.io/), also contact me by email tundepeter01@gmail.com.
 ---
 <!-- 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
