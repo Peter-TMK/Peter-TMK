@@ -61,7 +61,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ============================================ -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-iamtunde-golden?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/tunde-wey)](https://linkedin.com/in/tunde-wey) [![Twitter Badge](https://img.shields.io/badge/-@iamtunde-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/excel_py)](https://twitter.com/excel_py)[[![Medium Badge]](https://badgen.net/badge/icon/medium?icon=medium&label)(https://img.shields.io/badge/-iamtunde-silver?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://tundepeter.medium.com/)](https://tundepeter.medium.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-iamtunde-golden?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/tunde-wey)](https://linkedin.com/in/tunde-wey) [![Twitter Badge](https://img.shields.io/badge/-@iamtunde-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/excel_py)](https://twitter.com/excel_py)[![Medium Badge](https://img.shields.io/badge/-iamtunde-silver?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://tundepeter.medium.com/)](https://tundepeter.medium.com/)
 
 I'm a Data Scientist, Backend Developer and a Coding Tutor at [Data Scientists Networks](https://www.datasciencenigeria.org/). I'm passionate about sharing knowledge, documentation, web technology, and others.
 
