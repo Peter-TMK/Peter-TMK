@@ -61,7 +61,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ============================================ -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-iamtunde-golden?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/tunde-wey)](https://linkedin.com/in/tunde-wey) [![Twitter Badge](https://img.shields.io/badge/-@iamtunde-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/excel_py)](https://twitter.com/excel_py)
+[![Linkedin Badge](https://img.shields.io/badge/-iamtunde-golden?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/tunde-wey)](https://linkedin.com/in/tunde-wey) [![Twitter Badge](https://img.shields.io/badge/-@iamtunde-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/excel_py)](https://twitter.com/excel_py) [![Github Badge](https://img.shields.io/badge/-iamtunde-golden?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://tundewey.github.io/)](https://tundewey.github.io/)
 <!-- [![Medium Badge](https://img.shields.io/badge/-iamtunde-silver?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://tundepeter.medium.com/)](https://tundepeter.medium.com/) -->
 
 I'm a Data Scientist, Backend Developer and a Coding Tutor at [Data Scientists Networks](https://www.datasciencenigeria.org/). I'm passionate about sharing knowledge, documentation, web technology, and others.
@@ -72,7 +72,7 @@ I'm a Data Scientist, Backend Developer and a Coding Tutor at [Data Scientists N
 - 😊 Pronouns: He/him
 - 😊 I’m open to open source projects, hackathons, and other opportunities.
 - 💼 Job interests: Data Scientist, Backend Developer, Python Tutor.
-- 📫 You can [view my resume](#) and [![Linkedin Badge](https://img.shields.io/badge/-iamtunde-golden?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://tundewey.github.io/)](https://tundewey.github.io/), also contact me by email tundepeter01@gmail.com.
+- 📫 You can [view my resume](#) and also contact me by email tundepeter01@gmail.com.
 ---
 <!-- 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
