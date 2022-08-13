@@ -70,8 +70,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- [![Medium Badge](https://img.shields.io/badge/-iamtunde-silver?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://tundepeter.medium.com/)](https://tundepeter.medium.com/) -->
 
 - :telescope: I'm a Data Scientist and a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-I'm currently working as a Coding Tutor at [Data Scientists Networks](https://www.datasciencenigeria.org/) (MacroTutor).
-I'm passionate about sharing knowledge, documentation, web technology, and others.
+- :seedling: I'm currently working as a Coding Tutor at [Data Scientists Networks](https://www.datasciencenigeria.org/) (MacroTutor).
+😊 I'm passionate about sharing knowledge, documentation, web technology, and others.
 
 
 **About me**:
