@@ -71,7 +71,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I'm a Data Scientist and a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :seedling: I'm currently working as a Coding Tutor at [Data Scientists Networks](https://www.datasciencenigeria.org/) (MacroTutor).
-😊 I'm passionate about sharing knowledge, documentation, web technology, and solving problems in data-structures-and-algorithm.
+- :book: I'm passionate about sharing knowledge, documentation, web technology, and solving problems in data-structures-and-algorithm.
 
 
 
