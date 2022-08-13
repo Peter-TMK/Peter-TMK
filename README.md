@@ -69,13 +69,15 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- [![Medium Badge](https://img.shields.io/badge/-iamtunde-silver?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://tundepeter.medium.com/)](https://tundepeter.medium.com/) -->
 
-I'm a Data Scientist and a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> , currently working as a Coding Tutor at [Data Scientists Networks](https://www.datasciencenigeria.org/) (MacroTutor).
+- :telescope I'm a Data Scientist and a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I'm currently working as a Coding Tutor at [Data Scientists Networks](https://www.datasciencenigeria.org/) (MacroTutor).
 I'm passionate about sharing knowledge, documentation, web technology, and others.
+
 
 **About me**:
 <!-- - 🌱 I’m currently learning NodeJs. -->
 <!-- - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022. -->
-- 😊 Pronouns: He/him
+<!-- - 😊 Pronouns: He/him -->
 - 😊 I’m open to open source projects, hackathons, and other opportunities.
 - 💼 Job interests: Data Scientist, Backend Developer, Python Tutor.
 - 📫 You can [view my resume](#) and also contact me by email tundepeter01@gmail.com.
