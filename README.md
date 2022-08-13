@@ -71,7 +71,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I'm a Data Scientist and a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :seedling: I'm currently working as a Coding Tutor at [Data Scientists Networks](https://www.datasciencenigeria.org/) (MacroTutor).
-😊 I'm passionate about sharing knowledge, documentation, web technology, and others.
+😊 I'm passionate about sharing knowledge, documentation, web technology, and solving problems in data-structures-and-algorithm.
+
 
 
 **About me**:
@@ -82,7 +83,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 💼 Job interests: Data Scientist, Backend Developer, Python Tutor.
 - 📫 You can [view my resume](#) and also contact me by email tundepeter01@gmail.com.
 
-<!-- **Fun Quote**: <h6>"With or without codes, everyone is a programmer"</h6> -->
+**Fun Quote**:
+- 😊 "With or without codes, everyone is a programmer"
 ---
 <!-- 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
