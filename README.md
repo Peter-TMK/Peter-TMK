@@ -80,8 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- - 😊 Pronouns: He/him -->
 
 ### :man_technologist: About Me : <br>
-- :telescope: I'm a Data Scientist and a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :seedling: Currently working as a Coding Tutor at [Data Scientists Networks](https://www.datasciencenigeria.org/) (MacroTutor).
+- :telescope::seedling: I'm a Data Scientist and a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- 💼 Currently working as a Coding Tutor at [Data Scientists Networks](https://www.datasciencenigeria.org/) (MacroTutor).
 - :book: I'm passionate about sharing knowledge, documentation, web technology, solving problems in data-structures-and-algorithm and currently expanding my knowledge of Web Backend(NodeJS) with AltSchool Africa.
 - 💡 I’m open to open source projects, hackathons, and other opportunities.
 - 💼 Job interests: Data Scientist, Backend Developer, Python Tutor.
