@@ -3,6 +3,9 @@
   Hi there,
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=peter-tmk&label=Profile%20views&color=0e75b6&style=flat" alt="peter-tmk" /> </p>
+
 <!-- <h6>"With or without codes, everyone is a programmer"</h6> -->
 <!-- 
  Hi there,👋
@@ -72,17 +75,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Medium Badge](https://img.shields.io/badge/-Medium-silver?style=for-the-badge&logo=Medium&logoColor=white&link=https://tundepeter.medium.com/)](https://tundepeter.medium.com/)
 
 <!-- [![Medium Badge](https://img.shields.io/badge/-iamtunde-silver?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://tundepeter.medium.com/)](https://tundepeter.medium.com/) -->
-
-- :telescope: I'm a Data Scientist and a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :seedling: I'm currently working as a Coding Tutor at [Data Scientists Networks](https://www.datasciencenigeria.org/) (MacroTutor).
-- :book: I'm passionate about sharing knowledge, documentation, web technology, and solving problems in data-structures-and-algorithm.
-
-
-
-**About me**:
 <!-- - 🌱 I’m currently learning NodeJs. -->
 <!-- - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022. -->
 <!-- - 😊 Pronouns: He/him -->
+
+### :man_technologist: About Me : <br>
+- :telescope: I'm a Data Scientist and a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- :seedling: I'm currently working as a Coding Tutor at [Data Scientists Networks](https://www.datasciencenigeria.org/) (MacroTutor).
+- :book: I'm passionate about sharing knowledge, documentation, web technology, and solving problems in data-structures-and-algorithm.
 - 💡 I’m open to open source projects, hackathons, and other opportunities.
 - 💼 Job interests: Data Scientist, Backend Developer, Python Tutor.
 - 📫 You can [view my resume](#) and also contact me by email tundepeter01@gmail.com.
@@ -93,4 +93,37 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
 | ------------- | ------------- |
- -->
+ 
+ 
+ <h1 align="center">Hi 👋, I'm Excel</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+- 🔭 I’m currently working on **de**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/excel_py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="excel_py" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tunde-wey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tunde-wey" height="30" width="40" /></a>
+<a href="https://kaggle.com/petertmk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="petertmk" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@tundepeter01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@tundepeter01" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3><br>
+-->
+
+### :hammer_and_wrench: Languages and Tools :<br>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+### :fire: My Stats :<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peter-tmk&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="peter-tmk" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peter-tmk&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="peter-tmk" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peter-tmk&theme=dark&background=000000" alt="peter-tmk" /></p>
+
+<!-- ### :fire: My Stats:<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peter-tmk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peter-tmk&show_icons=true&locale=en" alt="peter-tmk" /></p>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=peter-tmk&theme=dark&background=000000)](https://git.io/streak-stats) -->
