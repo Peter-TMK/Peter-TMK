@@ -6,6 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peter-tmk&label=Profile%20views&color=0e75b6&style=flat" alt="peter-tmk" /> </p>
 
+<img align="right" alt="GIF" src="https://github.com/peter-tmk/peter-tmk/raw/master/code.gif?raw=true" height="320" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 <!-- <h6>"With or without codes, everyone is a programmer"</h6> -->
 <!-- 
  Hi there,👋
