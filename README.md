@@ -87,7 +87,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 💼 Currently working as a Coding Tutor at [Data Scientists Networks](https://www.datasciencenigeria.org/) (MacroTutor).
 - :book: I'm passionate about sharing knowledge, documentation, web technology, solving problems in data-structures-and-algorithm and currently expanding my knowledge of the Web(NodeJS) with AltSchool Africa.
 - 💡 I’m available for contributions to open source projects, hackathons, and other opportunities.
-- 💼 Job interests: Data Scientist, Backend Developer, Python Tutor.
+- 💼 Job interests: Backend Developer, Code Tutor, Data Scientist.
 - 📫 You can [view my resume](#) and also contact me by email tundepeter01@gmail.com.
 
 **Fun Quote**:
