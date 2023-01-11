@@ -47,7 +47,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 😄 Pronouns: I identify as a "the" a "she" and an "it".... I am "The Shit!"😏
 
---
+-
 
 ### :hammer_and_wrench: Languages and Tools :
 
