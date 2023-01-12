@@ -76,6 +76,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Twitter Badge](https://img.shields.io/badge/-@Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/excel_py)](https://twitter.com/excel_py)
 [![Github Badge](https://img.shields.io/badge/-Website-golden?style=for-the-badge&logo=Github&logoColor=white&link=https://tundewey.github.io/)](https://tundewey.github.io/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-silver?style=for-the-badge&logo=Medium&logoColor=white&link=https://tundepeter.medium.com/)](https://tundepeter.medium.com/)
+[![Hashnode Badge](https://img.shields.io/badge/-Hashnode-golden?style=for-the-badge&logo=Medium&logoColor=white&link=https://tundeexcel.hashnode.dev/)](https://tundeexcel.hashnode.dev/)
 
 <!-- [![Medium Badge](https://img.shields.io/badge/-iamtunde-silver?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://tundepeter.medium.com/)](https://tundepeter.medium.com/) -->
 <!-- - 🌱 I’m currently learning NodeJs. -->
