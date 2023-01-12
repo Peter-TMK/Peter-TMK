@@ -16,7 +16,7 @@
   Hi there,👋
   <img src="https://giphy.com/stickers/hand-holographic-holo-h8Bw0Z9vKQeHqVyE6N" width="30px"/>
 </h1>
-1
+
 <div id="svg" align="center">
      <img src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47puwy0efvsuk4qwels4ntxjwlh4ug5aj4l32nd9cl&rid=giphy.gif&ct=g" "width: 10%" alt="lady tech"/>
 </div>
