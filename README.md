@@ -3,7 +3,7 @@
   Hi there,
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-123
+12
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peter-tmk&label=Profile%20views&color=0e75b6&style=flat" alt="peter-tmk" /> </p>
 <!--
 <img align="right" alt="GIF" src="https://github.com/Peter-TMK/Peter-TMK/blob/main/code.gif?raw=true" width="500" height="320" />
