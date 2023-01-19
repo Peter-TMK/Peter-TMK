@@ -8,7 +8,7 @@
 <!--
 <img align="right" alt="GIF" src="https://github.com/Peter-TMK/Peter-TMK/blob/main/code.gif?raw=true" width="500" height="320" />
 -->
-12
+1
 <!-- <h6>"With or without codes, everyone is a programmer"</h6> -->
 <!-- 
  Hi there,👋
