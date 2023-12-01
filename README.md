@@ -84,7 +84,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- - 😊 Pronouns: He/him -->
 
 ### :man_technologist: About Me : <br>
-- :telescope::seedling: A Backend Developer | Technical Writer | Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- :telescope::seedling: NodeJS Developer | Code Tutor <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - 💼 Currently working as a Coding Tutor at [Data Scientists Networks](https://www.datasciencenigeria.org/) (MacroTutor).
 - :book: I'm passionate about sharing knowledge, documentation, web technology, solving problems in data-structures-and-algorithm and currently expanding my knowledge of the Web(NodeJS) with AltSchool Africa.
 - 💡 I’m available for contributions to open source projects, hackathons, and other opportunities.
