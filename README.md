@@ -73,9 +73,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ============================================ -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-golden?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/tunde-wey)](https://linkedin.com/in/tunde-wey)
-[![Twitter Badge](https://img.shields.io/badge/-@Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/excel_py)](https://twitter.com/excel_py)
-[![Hashnode Badge](https://img.shields.io/badge/-Hashnode-golden?style=for-the-badge&logo=Hashnode&logoColor=white&link=https://tundeexcel.hashnode.dev/)](https://tundeexcel.hashnode.dev/)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-silver?style=for-the-badge&logo=YouTube&logoColor=white&link=https://www.youtube.com/@DevWithExcel/)](https://www.youtube.com/@DevWithExcel/)
+[![Hashnode Badge](https://img.shields.io/badge/-Hashnode-golden?style=for-the-badge&logo=Hashnode&logoColor=white&link=https://tundeexcel.hashnode.dev/)](https://tundeexcel.hashnode.dev/)
+[![Twitter Badge](https://img.shields.io/badge/-@Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/@devwithexcel)](https://twitter.com/@devwithexcel)
+
 <!--
 [![Github Badge](https://img.shields.io/badge/-Website-golden?style=for-the-badge&logo=Github&logoColor=white&link=https://tundewey.github.io/)](https://tundewey.github.io/)
 -->
